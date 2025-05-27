@@ -2,7 +2,7 @@ Here's a professional and clear `README.md` for your **Stationary Object Detecti
 
 ---
 
-# 📦 Stationary Object Detection using YOLOv5 and Streamlit
+# 📦 Stationary Object Detection And Bill Calculation using YOLOv5 and Streamlit
 
 This project is a web-based application that detects stationary objects (such as pens, notebooks, staplers, etc.) using a custom-trained **YOLOv5** model. The app is built with **Streamlit** to provide a fast and interactive user interface.
 
