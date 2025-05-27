@@ -1,6 +1,3 @@
-Here's a professional and clear `README.md` for your **Stationary Object Detection using YOLOv5 and Streamlit** project:
-
----
 
 # 📦 Stationary Object Detection And Bill Calculation using YOLOv5 and Streamlit
 
@@ -120,4 +117,3 @@ This project is licensed under the MIT License. See `LICENSE` for more informati
 
 ---
 
-Let me know if you'd like it tailored with your GitHub repo link or demo screenshots.
