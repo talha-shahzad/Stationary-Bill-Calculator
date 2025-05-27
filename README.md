@@ -20,7 +20,7 @@ This project is a web-based application that detects stationary objects (such as
 
 ## 🖼️ Demo
 
-> *Insert a screenshot or video link here (optional)*
+![image](https://github.com/user-attachments/assets/8b1f2b3b-f28c-43f2-9329-c7aeb2957d6d)
 
 ---
 
@@ -97,12 +97,6 @@ streamlit run app.py --server.fileWatcherType none
 
 ---
 
-## 📊 Results
-
-> *(Optional: Add evaluation metrics like mAP, precision, recall, etc.)*
-> The model achieved an mAP of **X%** on the validation set, with reliable performance on common stationary items.
-
----
 
 ## 📌 Future Improvements
 
